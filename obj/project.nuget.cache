@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5uS8Q/EYOkTwkJYu+1yCLNL8J/Nrvc8gbwnf1Sj7xEHwCDSrednzuTk8YtV+0yh4oZwLE1OlDhdCVn1HoQ1f+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\AppTodoListPlus\\AppTodoListPlus\\AppTodoListPlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

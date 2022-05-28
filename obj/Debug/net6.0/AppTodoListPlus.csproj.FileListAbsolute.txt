@@ -1,0 +1,84 @@
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.staticwebassets.runtime.json
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.exe
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.deps.json
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.dll
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.pdb
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\Npgsql.dll
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.RazorAssemblyInfo.cache
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.RazorAssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\scopedcss\bundle\AppTodoListPlus.styles.css
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\scopedcss\projectbundle\AppTodoListPlus.bundle.scp.css
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.csproj.CopyComplete
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.dll
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\refint\AppTodoListPlus.dll
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.pdb
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Faculdade\LP1\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\ref\AppTodoListPlus.dll
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\appsettings.Development.json
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\appsettings.json
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.staticwebassets.runtime.json
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.exe
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.deps.json
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.runtimeconfig.json
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.dll
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\ref\AppTodoListPlus.dll
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.pdb
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\Npgsql.dll
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.csproj.AssemblyReference.cache
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.GeneratedMSBuildEditorConfig.editorconfig
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.AssemblyInfoInputs.cache
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.AssemblyInfo.cs
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.csproj.CoreCompileInputs.cache
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.MvcApplicationPartsAssemblyInfo.cache
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.RazorAssemblyInfo.cache
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.RazorAssemblyInfo.cs
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\staticwebassets.build.json
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\staticwebassets.development.json
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\scopedcss\bundle\AppTodoListPlus.styles.css
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\scopedcss\projectbundle\AppTodoListPlus.bundle.scp.css
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.csproj.CopyComplete
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.dll
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\ref\AppTodoListPlus.dll
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.pdb
+F:\6° Termo\LP1\2° Bin\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.staticwebassets.runtime.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\AppTodoListPlus.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\bin\Debug\net6.0\Npgsql.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.RazorAssemblyInfo.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.RazorAssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\scopedcss\bundle\AppTodoListPlus.styles.css
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\scopedcss\projectbundle\AppTodoListPlus.bundle.scp.css
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.csproj.CopyComplete
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\refint\AppTodoListPlus.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\AppTodoListPlus.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\AppTodoListPlus\AppTodoListPlus\obj\Debug\net6.0\ref\AppTodoListPlus.dll
